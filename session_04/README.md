@@ -1,3 +1,5 @@
+# Session 1: Word Embeddings, Model Training, Derivatives and Back Propagation
+
 1. **Word Embeddings & Creation:** How continuous, low-dimensional vectors capture semantic similarity compared to sparse one-hot encoding (featuring a custom CBOW implementation).
 2. **Model Training Loop:** The macro-perspective of machine learning pipelines (Forward Pass $\rightarrow$ Loss $\rightarrow$ Zero Grad $\rightarrow$ Backward Pass $\rightarrow$ Optimization).
 3. **Taking Derivatives:** Grounding the calculus of optimization into an intuitive geometric rate of change.
