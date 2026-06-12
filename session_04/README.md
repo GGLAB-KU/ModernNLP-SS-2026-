@@ -56,5 +56,4 @@ python backpropagation_bonus_2.py
 
 ## ✏️ Bonus Resources
 - [Lecture Slides](https://docs.google.com/presentation/d/1Ju7Q-t-Xx30ku_bG9UeVQz8WELbPi1tK4C38Za7mbfg/edit?usp=sharing)
-- [Recording](https://drive.google.com/drive/folders/1x5C02JgcW2u5hXrD355hFOoYEbdN-X5-?usp=sharing)
 - [Complete simplified backpropagation](https://youtu.be/8gFrim7cTzI?si=xhaAVL_Ut-QO58hG)
